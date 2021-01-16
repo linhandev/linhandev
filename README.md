@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name in Lin Han, a student in Jilin University. I'm really into deep learning, currently working on it's application in medical imaging.
+My name is Lin Han, a student in Jilin University. I'm quite into deep learning, currently working on it's application in medical imaging.
 
 <!--
 **linhandev/linhandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
