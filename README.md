@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Lin Han, a student in Jilin University. I'm quite into deep learning, currently working on it's application in medical imaging.
+[![Lin's GitHub stats](https://github-readme-stats.vercel.app/api?username=linhandev)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **linhandev/linhandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
