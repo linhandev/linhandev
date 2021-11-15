@@ -1,7 +1,7 @@
-### Hi there 👋
+## Hi there 👋
 It's Lin! Who loves coding and opensource.
 
-# Blog posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Arch Linux安装](https://linhandev.github.io/posts/Arch-install/)
 - [Centos Postfix 邮件服务器](https://linhandev.github.io/posts/Personal-Mail/)
