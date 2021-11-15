@@ -1,4 +1,5 @@
 ### Hi there 👋
+It's Lin! Who loves coding and opensource.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
