@@ -7,10 +7,10 @@ It's Lin! Who loves coding and opensource.
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [腹部CT](https://linhandev.github.io/posts/Abdominal-CT/)
-- [网络层](https://linhandev.github.io/posts/network-layer/)
+- [网络层](https://linhandev.github.io/posts/Network-Layer/)
 - [数据链路层](https://linhandev.github.io/posts/data-link/)
-- [TCP/IP 总览](https://linhandev.github.io/posts/tcp-ip-overview/)
 - [Arch Linux安装](https://linhandev.github.io/posts/Arch-install/)
+- [Centos Postfix 邮件服务器](https://linhandev.github.io/posts/Personal-Mail/)
 <!-- BLOG-POST-LIST:END -->
 
 
