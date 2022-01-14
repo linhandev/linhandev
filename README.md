@@ -6,7 +6,11 @@ It's Lin! Who loves coding and opensource.
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [test](https://linhandev.github.io//posts/test/)
+- [Arch常用软件](https://linhandev.github.io//posts/Arch-Apps/)
+- [应用层](https://linhandev.github.io//posts/Application-Layer/)
+- [腹部CT](https://linhandev.github.io//posts/Liver-CT/)
+- [医学影像数据集集锦](https://linhandev.github.io//posts/Medical-Dataset/)
+- [网络层](https://linhandev.github.io//posts/Network-Layer/)
 <!-- BLOG-POST-LIST:END -->
 
 
