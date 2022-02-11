@@ -6,11 +6,11 @@ It's Lin! Who loves coding and opensource.
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [arch install btrfs](https://linhandev.github.io//posts/arch-install-btrfs/)
 - [算法](https://linhandev.github.io//posts/temp/)
 - [Arch常用软件](https://linhandev.github.io//posts/Arch-Apps/)
 - [应用层](https://linhandev.github.io//posts/Application-Layer/)
 - [腹部CT](https://linhandev.github.io//posts/Liver-CT/)
+- [医学影像数据集集锦](https://linhandev.github.io//posts/Medical-Dataset/)
 <!-- BLOG-POST-LIST:END -->
 
 
