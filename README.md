@@ -6,7 +6,7 @@ It's Lin! Who loves coding and opensource.
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [图像处理笔记](https://linhandev.github.io//posts/video-image-processing/)
+- [图像处理笔记](https://linhandev.github.io//posts/image-video-processing/)
 - [机器学习笔记](https://linhandev.github.io//posts/ml/)
 - [算法笔记](https://linhandev.github.io//posts/algorithm/)
 - [Arch常用软件](https://linhandev.github.io//posts/Arch-Apps/)
