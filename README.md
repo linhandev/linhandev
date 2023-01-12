@@ -1,6 +1,8 @@
 ## Hi there 👋
 It's Lin! Who loves coding and opensource.
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=linhandev&theme=dark)](https://git.io/streak-stats)
+
 ![](profile-3d-contrib/profile-south-season-animate.svg)
 
 # Blog posts
