@@ -7,7 +7,7 @@ It's Lin! Who loves coding and opensource.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [共享MacOS](https://linhandev.github.io/posts/Sharing-MacOS/)
 - [Kotlin/Native 编译器开发技巧](https://linhandev.github.io/posts/kn-tricks/)
 - [KMP Debug构建效率提升](https://linhandev.github.io/posts/kn-debug-build-speedup/)
-- [DietPi部署邮件服务](https://linhandev.github.io/posts/Mail/)
 <!-- BLOG-POST-LIST:END -->
