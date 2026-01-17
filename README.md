@@ -7,7 +7,7 @@ It's Lin! Who loves coding and opensource.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Debug Kotlin Native程序](https://linhandev.github.io/posts/KN-Debug/)
+- [Kotlin/Native 覆盖率](https://linhandev.github.io/posts/KN-Coverage/)
 - [共享MacOS](https://linhandev.github.io/posts/Sharing-MacOS/)
-- [Kotlin/Native 编译器开发技巧](https://linhandev.github.io/posts/KN-Tricks/)
-- [KMP Debug构建效率提升](https://linhandev.github.io/posts/KN-Debug-Build-Speedup/)
 <!-- BLOG-POST-LIST:END -->
