@@ -9,5 +9,5 @@ It's Lin! Who loves coding and opensource.
 <!-- BLOG-POST-LIST:START -->
 - [Debug Kotlin Native程序](https://linhandev.github.io/posts/KN-Debug/)
 - [Kotlin/Native 覆盖率](https://linhandev.github.io/posts/KN-Coverage/)
-- [共享MacOS](https://linhandev.github.io/posts/Sharing-MacOS/)
+- [构建LLVm](https://linhandev.github.io/posts/Building-LLVM/)
 <!-- BLOG-POST-LIST:END -->
