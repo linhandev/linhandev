@@ -7,7 +7,7 @@ It's Lin! Who loves coding and opensource.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [LLVM Linkage &amp; ELF Bind，Visibility](https://linhandev.github.io/posts/Linkage/)
 - [Debug Kotlin Native程序](https://linhandev.github.io/posts/KN-Debug/)
 - [Kotlin/Native 覆盖率](https://linhandev.github.io/posts/KN-Coverage/)
-- [构建LLVm](https://linhandev.github.io/posts/Building-LLVM/)
 <!-- BLOG-POST-LIST:END -->
