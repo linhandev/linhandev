@@ -7,7 +7,7 @@ It's Lin! Who loves coding and opensource.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [KN 构建速度体检](https://linhandev.github.io/posts/KN-Build-Speed-Profiling/)
 - [LLVM Linkage &amp; ELF Bind，Visibility](https://linhandev.github.io/posts/Linkage/)
 - [Debug Kotlin Native程序](https://linhandev.github.io/posts/KN-Debug/)
-- [Kotlin/Native 测试覆盖率统计](https://linhandev.github.io/posts/KN-Coverage/)
 <!-- BLOG-POST-LIST:END -->
